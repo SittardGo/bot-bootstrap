@@ -29,6 +29,7 @@ const TEAM_ICONS = [
     { team: 'valor', icon: 'valor' },
     { team: 'mystic', icon: 'mystic' },
     { team: 'instinct', icon: 'instinct' },
+    { team: 'remote', icon: 'remote' },
 ];
 
 const REGISTER_URL = 'https://discordapp.com/oauth2/authorize?&client_id={CLIENT_ID}&scope=bot&permissions=0';
